@@ -1,0 +1,11 @@
+
+#sidebar {
+    max-width: 300px;
+    min-width: 300px;
+}
+#appContent {
+    max-width: 100%;
+    width: 100%;
+    min-width: calc(100% - 300px);
+    min-height: 100vh;
+}
